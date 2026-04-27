@@ -13,8 +13,9 @@
 | 04 | 04_epiCMIT.R | ⏳ | Epigenetic clocks |
 | 05 | 05_wilcoxon_cll.R | ⏳ | CLL subtype tests |
 | 06 | 06_correlation.R | ⏳ | Methylation correlations |
-| 07 | 07_differential.R | ⏳ | DMR analysis |
-| 08 | 08_kaplan_meier.R | ⏳ | Survival curves |
+| 07 | 07_differential.R | ⏳ | DM analysis |
+| 08 | 08_DMRcate.R | ⏳ | Genome annotation |
+| 09 | 09_kaplan_meier.R | ⏳ | Survival curves |
 
 # Project
 Decoding evolutionary dynamics of B cell neoplasms using DNA methylation profiling.
