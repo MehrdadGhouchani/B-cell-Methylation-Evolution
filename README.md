@@ -15,7 +15,7 @@
 | 06 | 06_correlation.R | ⏳ | Methylation correlations |
 | 07 | 07_differential.R | ⏳ | DM analysis |
 | 08 | 08_DMRcate.R | ✅ | Genome annotation |
-| 09 | 09_kaplan_meier.R | ⏳ | Survival curves |
+| 09 | 09_kaplan_meier.R | ✅ | Survival curves |
 
 # Project
 Decoding evolutionary dynamics of B cell neoplasms using DNA methylation profiling.
