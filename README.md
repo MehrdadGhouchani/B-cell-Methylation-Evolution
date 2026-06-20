@@ -11,7 +11,7 @@
 | 02 | 02_heatmap_variability.R | ✅ | Variable CpGs |
 | 03 | 03_PCA_tSNE.R | ⏳ | Dimensionality reduction |
 | 04 | 04_epiCMIT.R | ⏳ | Epigenetic clocks |
-| 05 | 05_Wilcoxon_CLL_epiCMIT.R | ⏳ | CLL subtype tests |
+| 05 | 05_Wilcoxon_CLL_epiCMIT.R | ✅ | CLL subtype tests |
 | 06 | 06_correlation.R | ⏳ | Methylation correlations |
 | 07 | 07_differential.R | ⏳ | DM analysis |
 | 08 | 08_DMRcate.R | ✅ | Genome annotation |
