@@ -8,7 +8,7 @@
 | # | Script | Status | Analysis |
 |---|--------|--------|----------|
 | 01 | 01_QC_normalization.R | ⏳ | Quality control |
-| 02 | 02_Heatmap_variability.R | ✅ | Variable CpGs |
+| 02 | 02_heatmap_variability.R | ✅ | Variable CpGs |
 | 03 | 03_PCA_tSNE.R | ⏳ | Dimensionality reduction |
 | 04 | 04_epiCMIT.R | ⏳ | Epigenetic clocks |
 | 05 | 05_Wilcoxon_CLL_epiCMIT.R | ⏳ | CLL subtype tests |
